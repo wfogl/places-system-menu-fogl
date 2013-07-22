@@ -44,7 +44,7 @@ var AdministrationEntries = [
 	["mintnanny", "network-workgroup", "Domain Blocker"],
 	["gufw", "gufw", "Firewall"],
 	["gnome-system-log", "gnome-system-log", "Log File Viewer"],
-	//["gnome-nettool", "gnome-nettool", "Network Tools"],
+	["gnome-nettool", "gnome-nettool", "Network Tools"],
 	["/usr/bin/aptoncd", "aptoncd", "APTonCD"],
 	["gnome-control-center printers", "printer", "Printing"],
 	["gksu mintinstall", "emblem-package", "Software Manager"],
